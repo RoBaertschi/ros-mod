@@ -171,3 +171,6 @@ docs/_build
 
 # Factorio debug files
 .vscode/factorio/*
+
+#zip file
+ros-mod_*.zip
